@@ -3,7 +3,8 @@ Some description to the project.
 =======
 # stepik-id-printer (h1)
 <img src="https://user-images.githubusercontent.com/64843863/163801193-8b7b9cec-d99a-4c8b-b972-4a9487f86817.png" alt="Alt text" title="Optional title"/>
-Это проект для вывода моего персонального идентификатора на образовательной платформе ```
+Это проект для вывода моего персонального идентификатора на образовательной платформе
+```
 stepik.org 
 ```
 
@@ -52,6 +53,6 @@ return 0;
 |LinkedIn | [Cсылка]() | З часа|
 |WgatsApp | [Cсылка]() | 30 минут|
 |Telegram| [Cсылка]()| 5 минут| 
->>>>>>> b59dd6ac9043170e2f937a137c2db5dfc9b6125b
+> b59dd6ac9043170e2f937a137c2db5dfc9b6125b
 
 ## username.sh prints my name
