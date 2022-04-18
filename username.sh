@@ -1,3 +1,3 @@
-var="My name is Nurassyl nice to meet you!)"
+var="My name is Nurassyl Suleyev nice to meet you!)"
 echo "$var"
  
