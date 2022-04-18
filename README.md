@@ -2,7 +2,7 @@
 Some description to the project.
 =======
 # stepik-id-printer (h1)
-<img src="https://user-images.githubusercontent.com/64843863/163801193-8b7b9cec-d99a-4c8b-b972-4a9487f86817.png" alt="Alt text" title="Optional title"/>
+![Alt text](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/ "Jusan")
 Это проект для вывода моего персонального идентификатора на образовательной платформе ``` stepik.org ```
 
 ## Возможности (h2)
