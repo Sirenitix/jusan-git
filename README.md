@@ -49,6 +49,6 @@ return 0;
 |LinkedIn | [Cсылка]() | З часа|
 |WgatsApp | [Cсылка]() | 30 минут|
 |Telegram| [Cсылка]()| 5 минут| 
->>>>>>> b59dd6ac9043170e2f937a137c2db5dfc9b6125b
+
 
 ## username.sh prints my name
