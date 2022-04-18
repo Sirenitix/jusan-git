@@ -35,7 +35,7 @@ cout << 777 << endl;
 return 0;
 }
 ```
-> Попробуйте реализовать нa Python Go и JavaScript.https://discord.com/assets/d95a24865c58c14548e439defc097222.svg
+> Попробуйте реализовать нa Python Go и JavaScript.![alt text](https://discord.com/assets/d95a24865c58c14548e439defc097222.svg)
 
 ## Контакты разработчика (h2)
 Ниже найдете список ссылок для связки с автором.
