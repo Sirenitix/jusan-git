@@ -3,7 +3,7 @@ Some description to the project.
 =======
 # stepik-id-printer (h1)
 <img src="https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/" alt="Alt text" title="Optional title"/>
-Это проект для вывода моего персонального идентификатора на образовательной платформе ``` stepik.org ```
+Это проект для вывода моего персонального идентификатора на образовательной платформе stepik.org 
 
 ## Возможности (h2)
 
